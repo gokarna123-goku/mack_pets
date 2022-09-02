@@ -21,13 +21,13 @@ Thank you for visiting.
 If you like it, do follow 
 
 <div>
-  <a href="https://github.com/gokarna123-goku" text-decoration="none">
+  <a href="https://github.com/gokarna123-goku" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="Goku github account icon" width="50px" height="50px" />
   </a> &nbsp; &nbsp; 
-  <a href="https://www.facebook.com/gokarna.ac.7/" text-decoration="none">
+  <a href="https://www.facebook.com/gokarna.ac.7/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/1384/1384053.png" alt="Goku github account icon" width="50px" height="50px" />
   </a> &nbsp; &nbsp; 
-  <a href="https://www.instagram.com/theac_goku153/" text-decoration="none">
+  <a href="https://www.instagram.com/theac_goku153/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3955/3955027.png" alt="Goku github account icon" width="50px" height="50px" />
   </a> &nbsp; &nbsp; 
   
