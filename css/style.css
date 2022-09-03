@@ -17,13 +17,18 @@
     box-shadow:none;
 }
 
+.form-control:focus, .form-control:active:focus, .form-control.active:focus{
+    outline: none;
+    box-shadow: none;
+}
+
 ::-webkit-scrollbar{
     display: none;
 }
 
 .background{
     /* background-image: linear-gradient(to bottom, #808080 1%, transparent, transparent, transparent), url('../images/3.jpg'); */
-    background-image: url('../images/3.jpg');
+    background-image: url('../images/bg-2.jpg');
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
