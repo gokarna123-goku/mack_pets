@@ -34,10 +34,13 @@ If you like it, do follow
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="Goku github account icon" width="50px" height="50px" />
   </a> &nbsp; &nbsp; 
   <a href="https://www.facebook.com/gokarna.ac.7/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/1384/1384053.png" alt="Goku github account icon" width="50px" height="50px" />
+    <img src="https://cdn-icons-png.flaticon.com/128/1384/1384053.png" alt="Goku facebook account icon" width="50px" height="50px" />
   </a> &nbsp; &nbsp; 
   <a href="https://www.instagram.com/theac_goku153/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3955/3955027.png" alt="Goku github account icon" width="50px" height="50px" />
+    <img src="https://cdn-icons-png.flaticon.com/128/3955/3955027.png" alt="Goku instagram account icon" width="50px" height="50px" />
+  </a> &nbsp; &nbsp; 
+  <a href="https://www.behance.net/gokarnaadhikari" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536806.png" alt="Goku behance account icon" width="50px" height="50px" />
   </a> &nbsp; &nbsp; 
   
 </div>
