@@ -13,14 +13,18 @@
     <!--  -->
     <link rel="stylesheet" href="css/style.css">
     <!--  -->
+    <!-- <script src="https://api.countapi.xyz/hit/florin-pop.com/visits?callback=liveViews" async></script> -->
+    <!--  -->
+    <script src="js/main.js" defer></script>
+    <!--  -->
     <title>Pets App</title>
 </head>
 
-<body>
+<body onload="incrementCount(10)">
     <!--  -->
     <!-- ================================= First section Navbar and landing page section ======================================= -->
-    <div class="container-fluid px-0 mx-0 background">
-        <div class="container col-md-10 align-middle">
+    <div class="container-fluid px-0 mx-0 background" id="id_main_container">
+        <div class="container col-md-10 align-middle" id="display_div_id">
             <div
                 class="d-lg-flex justify-content-between align-items-center flex-wrap py-2 mx-2 d-md-none d-sm-none d-none">
                 <div class="d-lg-flex justify-contenent-start align-items-center flex-wrap">
@@ -458,7 +462,7 @@
                 <div class="col-lg-3 col-md-6 mb-4">
                     <div class="p-2">
                         <h3 class="text text-start footer-title mb-2">Connect with us</h3>
-                        <div class="d-flex justify-content-start align-items-center">
+                        <div class="d-flex justify-content-start align-items-center mb-2">
                             <a href="#" class="text-decoration-none me-3">
                                 <i class="fa fa-facebook-official footer-icon"></i>
                             </a>
@@ -472,6 +476,12 @@
                                 <i class="fa fa-twitter-square footer-icon"></i>
                             </a>
                         </div>
+
+                        <!--  -->
+                        <p class="mb-0 text-start poppins" style="color: #dadada;">Total
+                            <span class="poppins website-counter" id="visits"></span> views on MackPet Website.
+                        </p>
+                        <!--  -->
                     </div>
                 </div>
             </div>
@@ -485,7 +495,6 @@
                         style="font-size: 1.2rem; letter-spacing: 0.88px; font-weight: 600;">Goku</a>
                 </p>
             </div>
-            <!--  -->
         </div>
     </div>
     <!--  -->
@@ -497,6 +506,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
         integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
         crossorigin="anonymous"></script>
+
 </body>
 
 </html>
