@@ -28,8 +28,8 @@
 
 .background{
     /* background-image: linear-gradient(to bottom, #808080 1%, transparent, transparent, transparent), url('../images/3.jpg'); */
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.65) 80%, rgba(0, 0, 0, 0.65) 75% ), url('../images/bg-2.jpg');
-    background-position: center;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.65) 80%, rgba(0, 0, 0, 0.65) 75% ), url('../images/bg-3.png');
+    background-position: center center;
     background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
@@ -163,6 +163,10 @@
         background: #fff !important;
         padding: 12px 10px;
     }
+    .background{
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0.65) 80%, rgba(0, 0, 0, 0.65) 75% ), url('../images/bg-3.png');
+        background-position: left right;
+    }
 }
 
 
@@ -173,5 +177,9 @@
     .nav-small-screen{
         background: #fff !important;
         padding: 12px 0 12px 10px;
+    }
+    .background{
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0.65) 80%, rgba(0, 0, 0, 0.65) 75% ), url('../images/bg-3.png');
+        background-position: left right;
     }
 }
