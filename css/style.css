@@ -28,7 +28,7 @@
 
 .background{
     /* background-image: linear-gradient(to bottom, #808080 1%, transparent, transparent, transparent), url('../images/3.jpg'); */
-    background-image: url('../images/bg-2.jpg');
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.65) 80%, rgba(0, 0, 0, 0.65) 75% ), url('../images/bg-2.jpg');
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
